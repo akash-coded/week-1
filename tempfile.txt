@@ -1,3 +1,5 @@
 This is a temporary file to showcase the sync concepts between remote and local while using GitHub.
 
 This is the second file that is added to this repo (remotely). 
+
+Now I am making some changes to this file. (remotely) This will show up in the diff. 
